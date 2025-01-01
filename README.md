@@ -1,6 +1,6 @@
 # dwm
 
-# packages required to build:**
+## packages required to build:
 
 * base-devel
 * libx11
@@ -26,6 +26,6 @@
 
 ---
 
-# other requirements
+## other requirements
 * st
 * rofi
